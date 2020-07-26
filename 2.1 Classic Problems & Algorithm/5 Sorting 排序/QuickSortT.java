@@ -1,5 +1,5 @@
 import java.util.Random;
-public class Practice{
+public class QuickSortT{
 	public  <T extends Comparable<? super T>> void sort(T[] nums){
 		if(nums == null || nums.length == 0) return;
 		quickSort(nums, 0, nums.length -1);
@@ -34,7 +34,7 @@ public class Practice{
 		int index = 0;
 		while(index < nums.length) nums[index++] = rand.nextInt(100);
 		for(Integer n : nums) System.out.println(n);
-		Practice sorter = new Practice();
+		QuickSortT sorter = new QuickSortT();
 		sorter.sort(nums);
 		for(Integer n : nums) System.out.println(n);
 	}

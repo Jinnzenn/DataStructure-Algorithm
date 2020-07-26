@@ -25,7 +25,7 @@ public class MergeSort{
 		int index = 0;
 		Random rand = new Random();
 		while(index < nums.length){
-			nums[index++] = rand.nextInt(System.currentTimeMillis());
+			nums[index++] = rand.nextInt((int)System.currentTimeMillis());
 		}
 		MergeSort sorter = new MergeSort();
 		sorter.sort(nums);

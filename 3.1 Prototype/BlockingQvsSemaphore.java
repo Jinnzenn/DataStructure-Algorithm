@@ -3,10 +3,10 @@ import java.util.concurrent.Semaphore;
 public class BlockingQvsSemaphore {
 
     /** 
-     * @Title: Ê¹ÓÃSemaphoreÊµÏÖ×èÈû¶ÓÁĞ
-     * @Description: Ê¹ÓÃÖ»ÓĞ1¸öĞí¿ÉµÄ
-     * @param @param args    Éè¶¨ÎÄ¼ş 
-     * @return void    ·µ»ØÀàĞÍ 
+     * @Title: ä½¿ç”¨Semaphoreå®ç°é˜»å¡é˜Ÿåˆ—
+     * @Description: ä½¿ç”¨åªæœ‰1ä¸ªè®¸å¯çš„
+     * @param @param args    è®¾å®šæ–‡ä»¶ 
+     * @return void    è¿”å›ç±»å‹ 
      * @throws 
      */
     public static void main(String[] args) {
@@ -19,26 +19,26 @@ public class BlockingQvsSemaphore {
 
 }
 /**
- * ĞÅºÅÀà
+ * ä¿¡å·ç±»
  * */
 class Signs{  
-    static Semaphore empty=new Semaphore(10); //ĞÅºÅÁ¿£º¼ÇÂ¼²Ö¿â¿ÕµÄÎ»ÖÃ  
-    static Semaphore full=new Semaphore(0);   //ĞÅºÅÁ¿£º¼ÇÂ¼²Ö¿âÂúµÄÎ»ÖÃ  
-    static Semaphore mutex=new Semaphore(1);  //ÁÙ½çÇø»¥³â·ÃÎÊĞÅºÅÁ¿(¶ş½øÖÆĞÅºÅÁ¿)£¬Ïàµ±ÓÚ»¥³âËø¡£ÓÃÓÚ±£»¤·ÇÏß³Ì°²È«µÄ  
+    static Semaphore empty=new Semaphore(10); //ä¿¡å·é‡ï¼šè®°å½•ä»“åº“ç©ºçš„ä½ç½®  
+    static Semaphore full=new Semaphore(0);   //ä¿¡å·é‡ï¼šè®°å½•ä»“åº“æ»¡çš„ä½ç½®  
+    static Semaphore mutex=new Semaphore(1);  //ä¸´ç•ŒåŒºäº’æ–¥è®¿é—®ä¿¡å·é‡(äºŒè¿›åˆ¶ä¿¡å·é‡)ï¼Œç›¸å½“äºäº’æ–¥é”ã€‚ç”¨äºä¿æŠ¤éçº¿ç¨‹å®‰å…¨çš„  
 } 
 /**
- * Éú²úÕß
+ * ç”Ÿäº§è€…
  * */
 class Producer implements Runnable{  
     @SuppressWarnings("static-access")
     public void run() {
         try {
             while (true) {
-                Signs.empty.acquire(); // µİ¼õ²Ö¿â¿ÕĞÅºÅÁ¿£¬½«Ïû·Ñ¼ÆÊıÆ÷¼õ1
-                Signs.mutex.acquire(); // ½øÈëÁÙ½çÇø
-                System.out.println("Éú³ÉÒ»¸ö²úÆ··ÅÈë²Ö¿â");
-                Signs.mutex.release(); // Àë¿ªÁÙ½çÇø
-                Signs.full.release(); // µİÔö²Ö¿âÂúĞÅºÅÁ¿£¬½«¿â´æ¼ÆÊıÆ÷¼Ó1
+                Signs.empty.acquire(); // é€’å‡ä»“åº“ç©ºä¿¡å·é‡ï¼Œå°†æ¶ˆè´¹è®¡æ•°å™¨å‡1
+                Signs.mutex.acquire(); // è¿›å…¥ä¸´ç•ŒåŒº
+                System.out.println("ç”Ÿæˆä¸€ä¸ªäº§å“æ”¾å…¥ä»“åº“");
+                Signs.mutex.release(); // ç¦»å¼€ä¸´ç•ŒåŒº
+                Signs.full.release(); // é€’å¢ä»“åº“æ»¡ä¿¡å·é‡ï¼Œå°†åº“å­˜è®¡æ•°å™¨åŠ 1
                 Thread.currentThread().sleep(100);
             }
         } catch (InterruptedException e) {
@@ -47,18 +47,18 @@ class Producer implements Runnable{
     }
 }
 /**
- * Ïû·ÑÕß
+ * æ¶ˆè´¹è€…
  * */
 class BConsumer implements Runnable{  
     @SuppressWarnings("static-access")
     public void run() {
         try {
             while (true) {
-                Signs.full.acquire(); // µİ¼õ²Ö¿âÂúĞÅºÅÁ¿£¬½«¿â´æ¼ÆÊıÆ÷¼õ1
+                Signs.full.acquire(); // é€’å‡ä»“åº“æ»¡ä¿¡å·é‡ï¼Œå°†åº“å­˜è®¡æ•°å™¨å‡1
                 Signs.mutex.acquire();
-                System.out.println("´Ó²Ö¿âÄÃ³öÒ»¸ö²úÆ·Ïû·Ñ");
+                System.out.println("ä»ä»“åº“æ‹¿å‡ºä¸€ä¸ªäº§å“æ¶ˆè´¹");
                 Signs.mutex.release();
-                Signs.empty.release(); // µİÔö²Ö¿â¿ÕĞÅºÅÁ¿£¬½«Ïû·Ñ¼ÆÊıÆ÷¼Ó1
+                Signs.empty.release(); // é€’å¢ä»“åº“ç©ºä¿¡å·é‡ï¼Œå°†æ¶ˆè´¹è®¡æ•°å™¨åŠ 1
                 Thread.currentThread().sleep(1000);
             }
         } catch (InterruptedException e) {

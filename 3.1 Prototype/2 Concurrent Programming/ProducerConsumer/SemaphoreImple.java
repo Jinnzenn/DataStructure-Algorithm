@@ -1,28 +1,25 @@
 import java.util.concurrent.Semaphore;
 /**
- * Ê¹ÓÃsemaphoreĞÅºÅÁ¿ÊµÏÖ
- * @author ZGJ
- * @date 2017Äê6ÔÂ29ÈÕ
+ * ä½¿ç”¨semaphoreä¿¡å·é‡å®ç° ç”Ÿäº§è€…æ¶ˆè´¹è€…æ¨¡å‹
+ * @author Chenjinzhen
+ * @date 2020.07.24
  */
 public class SemaphoreImple {
-    private static Integer count = 0;
-    //´´½¨Èı¸öĞÅºÅÁ¿
+    //åˆ›å»ºä¸‰ä¸ªä¿¡å·é‡
     final Semaphore notFull = new Semaphore(10);
     final Semaphore notEmpty = new Semaphore(0);
-    final Semaphore mutex = new Semaphore(1);//»¥³âËø£¬±£Ö¤¶ÔcountÕâ¸ö¹²Ïí×ÊÔ´µÄ·ÃÎÊ²»³åÍ»
+    final Semaphore mutex = new Semaphore(1);//äº’æ–¥é”ï¼Œä¿è¯å¯¹countè¿™ä¸ªå…±äº«èµ„æºçš„è®¿é—®ä¸å†²çªï¼Œå¯å»é™¤
+    private static Integer count = 0;//è¾“å‡ºçŠ¶æ€ï¼Œå¯å»é™¤
     public static void main(String[] args) {
-        SemaphoreImple test4 = new SemaphoreImple();
-        new Thread(test4.new Producer()).start();
-        new Thread(test4.new Consumer()).start();
-        new Thread(test4.new Producer()).start();
-        new Thread(test4.new Consumer()).start();
-        new Thread(test4.new Producer()).start();
-        new Thread(test4.new Consumer()).start();
-        new Thread(test4.new Producer()).start();
-        new Thread(test4.new Consumer()).start();
+        SemaphoreImple test = new SemaphoreImple();
+        new Thread(test.new Producer()).start();
+        new Thread(test.new Producer()).start();
+        new Thread(test.new Producer()).start();
+        new Thread(test.new Consumer()).start();
+        new Thread(test.new Consumer()).start();
     }
     class Producer implements Runnable {
-        @Override
+
         public void run() {
             for (int i = 0; i < 10; i++) {
                 try {
@@ -32,10 +29,10 @@ public class SemaphoreImple {
                 }
                 try {
                     notFull.acquire();
-                    mutex.acquire();//Ò»´ÎÖ»ÄÜÓĞÒ»¸öÉú²úÕß»òÏû·ÑÕßĞŞ¸Ä count£¬
+                    mutex.acquire();//ä¸€æ¬¡åªèƒ½æœ‰ä¸€ä¸ªç”Ÿäº§è€…æˆ–æ¶ˆè´¹è€…ä¿®æ”¹ countï¼Œ
                     count++;
                     System.out.println(Thread.currentThread().getName()
-                            + "Éú²úÕßÉú²ú£¬Ä¿Ç°×Ü¹²ÓĞ" + count);
+                            + "ç”Ÿäº§è€…ç”Ÿäº§ï¼Œç›®å‰countï¼š" + count);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 } finally {
@@ -46,7 +43,7 @@ public class SemaphoreImple {
         }
     }
     class Consumer implements Runnable {
-        @Override
+
         public void run() {
             for (int i = 0; i < 10; i++) {
                 try {
@@ -56,14 +53,14 @@ public class SemaphoreImple {
                 }
                 try {
                     notEmpty.acquire();
-                    //mutex.acquire();
+                    mutex.acquire();
                     count--;
                     System.out.println(Thread.currentThread().getName()
-                            + "Ïû·ÑÕßÏû·Ñ£¬Ä¿Ç°×Ü¹²ÓĞ" + count);
+                            + "æ¶ˆè´¹è€…æ¶ˆè´¹ï¼Œç›®å‰countï¼š" + count);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 } finally {
-                    //mutex.release();
+                    mutex.release();
                     notFull.release();
                 }
             }

@@ -1,26 +1,27 @@
-import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
+import java.util.concurrent.LinkedBlockingQueue;
+import java.util.concurrent.atomic.AtomicInteger;
+
 /**
- * Ê¹ÓÃBlockingQueueÊµÏÖÉú²úÕßÏû·ÑÕßÄ£ĞÍ
- * @author ZGJ
- * @date 2017Äê6ÔÂ29ÈÕ
+ * ä½¿ç”¨BlockingQueueå®ç°ç”Ÿäº§è€…æ¶ˆè´¹è€…æ¨¡å‹
+ * @author ChenJinzhen
+ * @date 2020.07.24
  */
 public class BlockingQueueImple {
-    private static Integer count = 0;
-    //´´½¨Ò»¸ö×èÈû¶ÓÁĞ
-    final BlockingQueue blockingQueue = new ArrayBlockingQueue<>(10);
+    private static AtomicInteger count = new AtomicInteger();//ä½¿ç”¨countè®¡æ•°
+    final BlockingQueue blockingQueue = new LinkedBlockingQueue(10);//ä¸ArrayBlockingQueueç›¸æ¯”æœ‰è¾ƒå¤§çš„ååé‡
     public static void main(String[] args) {
-        BlockingQueueImple test3 = new BlockingQueueImple();
-        new Thread(test3.new Producer()).start();
-        new Thread(test3.new Consumer()).start();
-        new Thread(test3.new Producer()).start();
-        new Thread(test3.new Consumer()).start();
-        new Thread(test3.new Producer()).start();
-        new Thread(test3.new Consumer()).start();
-        new Thread(test3.new Producer()).start();
-        new Thread(test3.new Consumer()).start();
+        BlockingQueueImple test = new BlockingQueueImple();
+        test.new Producer().start();
+        test.new Consumer().start();
+        test.new Producer().start();
+        test.new Consumer().start();
+        test.new Producer().start();
+        test.new Consumer().start();
+        test.new Producer().start();
+        test.new Consumer().start();
     }
-    class Producer implements Runnable {
+    class Producer extends Thread {
         @Override
         public void run() {
             for (int i = 0; i < 10; i++) {
@@ -31,16 +32,16 @@ public class BlockingQueueImple {
                 }
                 try {
                     blockingQueue.put(1);
-                    count++;
+                    count.getAndIncrement();
                     System.out.println(Thread.currentThread().getName()
-                            + "Éú²úÕßÉú²ú£¬Ä¿Ç°×Ü¹²ÓĞ" + count);
+                            + "ç”Ÿäº§è€…ç”Ÿäº§ï¼Œç›®å‰æ€»å…±æœ‰" + count);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
             }
         }
     }
-    class Consumer implements Runnable {
+    class Consumer extends Thread {
         @Override
         public void run() {
             for (int i = 0; i < 10; i++) {
@@ -51,9 +52,9 @@ public class BlockingQueueImple {
                 }
                 try {
                     blockingQueue.take();
-                    count--;
+                    count.getAndDecrement();
                     System.out.println(Thread.currentThread().getName()
-                            + "Ïû·ÑÕßÏû·Ñ£¬Ä¿Ç°×Ü¹²ÓĞ" + count);
+                            + "æ¶ˆè´¹è€…æ¶ˆè´¹ï¼Œç›®å‰æ€»å…±æœ‰" + count);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }

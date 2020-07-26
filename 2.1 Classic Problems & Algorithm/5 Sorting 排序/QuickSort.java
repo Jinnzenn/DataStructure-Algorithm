@@ -12,14 +12,14 @@ public class QuickSort{
 		quickSort(nums, p+1, high);
 	}
 	private int partition(int[] nums, int low, int high){
-		//Ëæ»ú½»»»
+		//???????
 		Random rand = new Random();
 		int r = rand.nextInt(high-low+1);
 		swap(nums, low, low+r);
 		
 		int i = low, j = high+1;
 		int value = nums[low];
-		while(true){
+		while(i < j){
 			while(++i <= high && nums[i] < value);
 			while(--j >= low && nums[j] > value);
 			if(i >= j) break;
