@@ -1,4 +1,4 @@
-package Chapter301ModelAndPrototype.JavaAnnotation;
+package Chapter001JavaLanguage.JavaAnnotation;
 
 public class Apple {
     @FruitProvider(id = 1, name = "红富士", address = "陕西")

@@ -1,4 +1,4 @@
-package Chapter301ModelAndPrototype.JavaAnnotation;
+package Chapter001JavaLanguage.JavaAnnotation;
 
 import java.lang.reflect.Field;
 
