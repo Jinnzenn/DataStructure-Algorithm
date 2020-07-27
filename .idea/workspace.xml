@@ -2,299 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26c0abce-2088-4979-9ab1-7a8d8fb5047d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/LanguageJava/JavaAnnotation/Apple.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/LanguageJava/JavaAnnotation/FruitInfoUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/LanguageJava/JavaAnnotation/FruitProvider.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/LanguageJava/JavaAnnotation/FruitRun.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/LanguageJava/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/BlockingQueue/SemaphoreBlockingQueue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/BlockingQueue/ZerahBlockQueue.ajva" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/BlockingQueue/ZerahBlockQueue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/BlockingQueue/ZerahBlockQueueTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Condition" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Condition.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Lock.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Semaphore.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Synch/ABC_Synch.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Synch/MainClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_SynchDeadLock.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/OddEven_Condition.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/OddEven_Semaphore.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInPhase/ABC_Barrier.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInPhase/ABC_CountDownLatch.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInPhase/ABC_Phaser$StudentTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInPhase/ABC_Phaser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInPhase/ABC_Phaser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/BlockingQueueImple.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/BlockingQvsSemaphore.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/DiningPhilosophers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/ReentrantLockImple.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/SemaphoreImple.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/WaitAndNotifyImple.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter1/TicketWindowRunnable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter1/TicketWindowRunnable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter1/TryConcurrent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter10/ShutdownHook.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter11/ThreadUncaughtException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter12SimpleExecutor/RealSimpleThreadPoolExecutor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter12SimpleExecutor/SimpleThreadPoolExecutor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter12SimpleExecutor/SuperSimpleThreadPoolExecutor$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter12SimpleExecutor/SuperSimpleThreadPoolExecutor$Worker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter12SimpleExecutor/SuperSimpleThreadPoolExecutor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter12SimpleExecutor/SuperSimpleThreadPoolExecutor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter12SimpleExecutor/SuperSimpleThreadPoolExecutorTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter13/NotSharedObject.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter13/SharedObject.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter14/ObserverClient.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter2/ThreadDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter3/ThreadJoin.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter4/ThreadClose.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter4/ThreadService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter5/BankMain.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter6/DeadLockFixed.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter6/DeadLockSemaphore.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter7/ErrorDemonstration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter7/MultipleProductAndConsumer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter7/SingleProductAndConsumer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter8/DifferenceOfWaitAndSleep.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter9/CaptureService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/多线程经典实例.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaAIO/TimeServer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/ByteIO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CS-Notes_Java IO.md at master · CyC2018_CS-Notes.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CS-Notes_Java IO.md at master · CyC2018_CS-Notes_files/25542139.jfif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CS-Notes_Java IO.md at master · CyC2018_CS-Notes_files/36260787.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CS-Notes_Java IO.md at master · CyC2018_CS-Notes_files/3983683.jfif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CS-Notes_Java IO.md at master · CyC2018_CS-Notes_files/68747470733a2f2f63732d6e6f7465732d313235363130393739362e636f.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CS-Notes_Java IO.md at master · CyC2018_CS-Notes_files/68747470733a2f2f63732d6e6f7465732d313235363130393739362e_002.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CS-Notes_Java IO.md at master · CyC2018_CS-Notes_files/68747470733a2f2f63732d6e6f7465732d313235363130393739362e_003.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CS-Notes_Java IO.md at master · CyC2018_CS-Notes_files/68747470733a2f2f63732d6e6f7465732d313235363130393739362e_004.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CS-Notes_Java IO.md at master · CyC2018_CS-Notes_files/68747470733a2f2f63732d6e6f7465732d313235363130393739362e_005.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CS-Notes_Java IO.md at master · CyC2018_CS-Notes_files/68747470733a2f2f63732d6e6f7465732d313235363130393739362e_006.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CS-Notes_Java IO.md at master · CyC2018_CS-Notes_files/68747470733a2f2f63732d6e6f7465732d313235363130393739362e_007.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CS-Notes_Java IO.md at master · CyC2018_CS-Notes_files/68747470733a2f2f63732d6e6f7465732d313235363130393739362e_008.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CS-Notes_Java IO.md at master · CyC2018_CS-Notes_files/68747470733a2f2f63732d6e6f7465732d313235363130393739362e_009.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CS-Notes_Java IO.md at master · CyC2018_CS-Notes_files/8247718.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CS-Notes_Java IO.md at master · CyC2018_CS-Notes_files/8924785.jfif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CS-Notes_Java IO.md at master · CyC2018_CS-Notes_files/environment-bootstrap-a91211f6.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CS-Notes_Java IO.md at master · CyC2018_CS-Notes_files/frameworks-146fab5ea30e8afac08dd11013bb4ee0.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CS-Notes_Java IO.md at master · CyC2018_CS-Notes_files/frameworks-ae021151.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CS-Notes_Java IO.md at master · CyC2018_CS-Notes_files/github-bcc291b5b43d87c566cdc70c35d9a794.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CS-Notes_Java IO.md at master · CyC2018_CS-Notes_files/github-bootstrap-ba1156ee.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CS-Notes_Java IO.md at master · CyC2018_CS-Notes_files/octocat-spinner-128.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CS-Notes_Java IO.md at master · CyC2018_CS-Notes_files/search-key-slash.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CS-Notes_Java IO.md at master · CyC2018_CS-Notes_files/vendor-a94b745b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CharIO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/FileIO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaIO/ObjectIO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaNIO/ChannelIO" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaNIO/ChannelIO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaNIO/NIOClient.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaNIO/NIOServer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaNIO/TimeServer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaNIONetty/ByteBufReferenceCount" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaNIONetty/ByteBufReferenceCount.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaSocket/TCPSocket/BasicSocketClient.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaSocket/TCPSocket/BasicSocketServer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaSocket/TCPSocket/ChatRoomClient.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaSocket/TCPSocket/ChatRoomServer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaSocket/TCPSocket/SocketClient.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaSocket/TCPSocket/SocketServer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaSocket/UDPSocket/ClientSocket.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section201NetworkProgramming/JavaSocket/UDPSocket/ServerSocket.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/Handler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/Request.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/RequestType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Command/Command.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/AbstractFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/AbstractProductA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/AbstractProductB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/Client.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/ConcreteFactory1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/ConcreteFactory2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/ProductA1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/ProductA2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/ProductB1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/ProductB2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/Builder/AbstractStringBuilderSimple.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/Builder/Client.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/Builder/StringBuilderSimple.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/FactoryMethod/Client.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/FactoryMethod/ConcreteFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/FactoryMethod/ConcreteFactory1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/FactoryMethod/ConcreteFactory2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/FactoryMethod/Factory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/ProtoType/Client.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/ProtoType/ConcretePrototype.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/ProtoType/Prototype.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/SimpleFactory/Client.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/SimpleFactory/ConcreteProduct.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/SimpleFactory/ConcreteProduct1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/SimpleFactory/ConcreteProduct2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/SimpleFactory/Product.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/SimpleFactory/SimpleFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/Singleton/Singleton.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/Singleton/SingletonDoubleCheckLock.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/Singleton/SingletonHungerGuy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/Singleton/SingletonLazyGuy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/Singleton/SingletonStaticInnerClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section501OperationSystem/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ByteBufReferenceCount.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/LanguageJava/JavaAnnotation/Apple.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/LanguageJava/JavaAnnotation/FruitInfoUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/LanguageJava/JavaAnnotation/FruitProvider.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/LanguageJava/JavaAnnotation/FruitRun.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/BlockingQueue/SemaphoreBlockingQueue$Consumer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/BlockingQueue/SemaphoreBlockingQueue$Producer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/BlockingQueue/SemaphoreBlockingQueue$SemaphoreQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/BlockingQueue/SemaphoreBlockingQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/BlockingQueue/ZerahBlockQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/BlockingQueue/ZerahBlockQueueTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Condition$ThreadA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Condition$ThreadB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Condition$ThreadC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Condition.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Lock$ThreadA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Lock$ThreadB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Lock$ThreadC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Lock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Semaphore$ThreadA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Semaphore$ThreadB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Semaphore$ThreadC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Semaphore.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Synch/ABC_Synch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Synch/MainClass$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Synch/MainClass$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Synch/MainClass$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Synch/MainClass$Print_Aoo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Synch/MainClass$Print_Boo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Synch/MainClass$Print_Coo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_Synch/MainClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_SynchDeadLock$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_SynchDeadLock$ThreadPrinter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/ABC_SynchDeadLock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/OddEven_Condition$ThreadEven.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/OddEven_Condition$ThreadOdd.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/OddEven_Condition.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/OddEven_Semaphore$printEven.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/OddEven_Semaphore$printOdd.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInOrder/OddEven_Semaphore.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInPhase/ABC_Phaser$StudentTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/PrintABCInPhase/ABC_Phaser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/BConsumer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/BlockingQueueImple$Consumer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/BlockingQueueImple$Producer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/BlockingQueueImple.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/BlockingQvsSemaphore.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/DiningPhilosophers$DiningPhilosophersTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/DiningPhilosophers$DiningPhilosophersTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/DiningPhilosophers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/Producer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/ReentrantLockImple$Consumer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/ReentrantLockImple$Producer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/ReentrantLockImple.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/SemaphoreImple$Consumer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/SemaphoreImple$Producer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/SemaphoreImple.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/Signs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/WaitAndNotifyImple$Consumer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/WaitAndNotifyImple$Producer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/ProducerConsumer/WaitAndNotifyImple.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter1/TicketWindowRunnable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter1/TryConcurrent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter10/ShutdownHook.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter11/ConnectionPool.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter11/ThreadUncaughtException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter12SimpleExecutor/RealSimpleThreadPoolExecutor$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter12SimpleExecutor/RealSimpleThreadPoolExecutor$Worker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter12SimpleExecutor/RealSimpleThreadPoolExecutor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter12SimpleExecutor/SimpleThreadPoolExecutor$DiscardException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter12SimpleExecutor/SimpleThreadPoolExecutor$DiscardPolicy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter12SimpleExecutor/SimpleThreadPoolExecutor$TaskState.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter12SimpleExecutor/SimpleThreadPoolExecutor$WorkerTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter12SimpleExecutor/SimpleThreadPoolExecutor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter13/NotSharedObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter13/SharedObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter14/ObservableRunnable$RunnableEvent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter14/ObservableRunnable$RunnableState.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter14/ObservableRunnable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter14/ObserverClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter14/ObserverListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter2/ThreadDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter3/CaptureRunnable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter3/ThreadJoin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter4/ThreadClose.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter4/ThreadService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter4/Worker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter4/WorkerService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter5/Bank1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter5/Bank2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter5/Bank3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter5/Bank4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter5/Bank5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter5/BankMain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter6/DeadLock1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter6/DeadLock2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter6/DeadLockFixed.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter6/DeadLockSemaphore.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter6/TryLock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter7/ErrorDemonstration.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter7/MultipleProductAndConsumer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter7/SingleProductAndConsumer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter8/DifferenceOfWaitAndSleep.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter9/CaptureService$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter9/CaptureService$Control.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section102ConcurrentProgramming/Thread/chapter9/CaptureService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section201NetworkProgramming/JavaAIO/TimeServer$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section201NetworkProgramming/JavaAIO/TimeServer$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section201NetworkProgramming/JavaAIO/TimeServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section201NetworkProgramming/JavaIO/ByteIO.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section201NetworkProgramming/JavaIO/CharIO.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section201NetworkProgramming/JavaIO/FileIO.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section201NetworkProgramming/JavaIO/ObjectIO$Inner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section201NetworkProgramming/JavaIO/ObjectIO.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section201NetworkProgramming/JavaNIO/ChannelIO.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section201NetworkProgramming/JavaNIO/NIOClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section201NetworkProgramming/JavaNIO/NIOServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section201NetworkProgramming/JavaNIO/TimeServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section201NetworkProgramming/JavaSocket/TCPSocket/BasicSocketClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section201NetworkProgramming/JavaSocket/TCPSocket/BasicSocketServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section201NetworkProgramming/JavaSocket/TCPSocket/ChatRoomClient$Receive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section201NetworkProgramming/JavaSocket/TCPSocket/ChatRoomClient$Send.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section201NetworkProgramming/JavaSocket/TCPSocket/ChatRoomClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section201NetworkProgramming/JavaSocket/TCPSocket/ChatRoomServer$Chanel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section201NetworkProgramming/JavaSocket/TCPSocket/ChatRoomServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section201NetworkProgramming/JavaSocket/TCPSocket/SocketClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section201NetworkProgramming/JavaSocket/TCPSocket/SocketServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section201NetworkProgramming/JavaSocket/UDPSocket/ClientSocket.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section201NetworkProgramming/JavaSocket/UDPSocket/ServerSocket.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section401DesignPattern/CreationalPattern/FactoryMethod/Client.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section401DesignPattern/CreationalPattern/FactoryMethod/ConcreteFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section401DesignPattern/CreationalPattern/FactoryMethod/ConcreteFactory1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section401DesignPattern/CreationalPattern/FactoryMethod/ConcreteFactory2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section401DesignPattern/CreationalPattern/FactoryMethod/Factory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section401DesignPattern/CreationalPattern/SimpleFactory/Client.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section401DesignPattern/CreationalPattern/SimpleFactory/ConcreteProduct.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section401DesignPattern/CreationalPattern/SimpleFactory/ConcreteProduct1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section401DesignPattern/CreationalPattern/SimpleFactory/ConcreteProduct2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section401DesignPattern/CreationalPattern/SimpleFactory/Product.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section401DesignPattern/CreationalPattern/SimpleFactory/SimpleFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section401DesignPattern/CreationalPattern/Singleton/Singleton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section401DesignPattern/CreationalPattern/Singleton/SingletonDoubleCheckLock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section401DesignPattern/CreationalPattern/Singleton/SingletonHungerGuy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section401DesignPattern/CreationalPattern/Singleton/SingletonLazyGuy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section401DesignPattern/CreationalPattern/Singleton/SingletonStaticInnerClass$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section401DesignPattern/CreationalPattern/Singleton/SingletonStaticInnerClass$SingletonHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter301Prototype/Section401DesignPattern/CreationalPattern/Singleton/SingletonStaticInnerClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/SuperSimpleThreadPoolExecutor$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/SuperSimpleThreadPoolExecutor$Worker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/SuperSimpleThreadPoolExecutor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/SuperSimpleThreadPoolExecutorTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/SuperSimpleThreadPoolExecutorTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter102AdvancedDataStructure/BloomFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter201ClassicProblemsAndAlgorithm/Section104Sorting/HeapSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter201ClassicProblemsAndAlgorithm/Section104Sorting/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter201ClassicProblemsAndAlgorithm/Section104Sorting/MergeSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter201ClassicProblemsAndAlgorithm/Section104Sorting/Practice.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter201ClassicProblemsAndAlgorithm/Section104Sorting/QuickSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter201ClassicProblemsAndAlgorithm/Section104Sorting/QuickSortT.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/jinnzenn/github/App.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/jinnzenn/github/AppTest.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CodeBoot.iml" afterPath="$PROJECT_DIR$/CodeBoot.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -310,69 +28,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file leaf-file-name="68747470733a2f2f63732d6e6f7465732d313235363130393739362e_007.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section201NetworkProgramming/JavaIO/68747470733a2f2f63732d6e6f7465732d313235363130393739362e_007.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="68747470733a2f2f63732d6e6f7465732d313235363130393739362e_005.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section201NetworkProgramming/JavaIO/68747470733a2f2f63732d6e6f7465732d313235363130393739362e_005.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="68747470733a2f2f63732d6e6f7465732d313235363130393739362e636f.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section201NetworkProgramming/JavaIO/68747470733a2f2f63732d6e6f7465732d313235363130393739362e636f.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CodeBoot.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeBoot.iml">
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="54">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <file leaf-file-name="HeapSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter201ClassicProblemsAndAlgorithm/Section104Sorting/HeapSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="81">
-              <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Beverage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Decorator/Beverage.java">
+      <file leaf-file-name="Apple.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/JavaAnnotation/Apple.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
-              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CondimentDecorator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Decorator/CondimentDecorator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="53" lean-forward="false" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="FruitInfoUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/LanguageJava/JavaAnnotation/FruitInfoUtil.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/JavaAnnotation/FruitInfoUtil.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
               <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
@@ -382,7 +82,7 @@
         </entry>
       </file>
       <file leaf-file-name="FruitProvider.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/LanguageJava/JavaAnnotation/FruitProvider.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/JavaAnnotation/FruitProvider.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
               <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -391,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Decorator/Client.java">
+      <file leaf-file-name="FruitRun.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/JavaAnnotation/FruitRun.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -433,12 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/SimpleFactory/ConcreteProduct2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/FactoryMethod/Client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/AbstractProductA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/ProductA1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/ProductA2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/ProductB1.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/ProductB2.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/ConcreteFactory1.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/ConcreteFactory2.java" />
@@ -484,6 +178,12 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/AbstractFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Decorator/CondimentDecorator.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Decorator/CondimentDecoratorImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/CreationalPattern/AbstractFactory/ConcreteFactory1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/CreationalPattern/AbstractFactory/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter300ModelAndPrototype/JavaAnnotation/FruitRun.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter202SpecificProblemsAndAlgorithm/Chapter301ModelAndPrototype/JavaAnnotation/FruitRun.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/JavaAnnotation/FruitRun.java" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
       </list>
     </option>
   </component>
@@ -493,12 +193,29 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="codeboot" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="codeboot" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-11" />
     <option name="y" value="-11" />
     <option name="width" value="982" />
     <option name="height" value="1102" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -527,11 +244,6 @@
             <path>
               <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodeBoot" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeBoot" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -546,6 +258,59 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter201ClassicProblemsAndAlgorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter202SpecificProblemsAndAlgorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter301ModelAndPrototype" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter301ModelAndPrototype" type="462c0819:PsiDirectoryNode" />
+              <item name="Section401DesignPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter301ModelAndPrototype" type="462c0819:PsiDirectoryNode" />
+              <item name="Section401DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="BehavioralPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter301ModelAndPrototype" type="462c0819:PsiDirectoryNode" />
+              <item name="Section401DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="StructuralPattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
@@ -584,7 +349,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -603,6 +368,9 @@
       <recent name="C:\Users\Jinzhen\Documents\GitHub\CodeBoot\src\main\java\Chapter301ModelAndPrototype\Section401DesignPattern\StructuralPattern" />
       <recent name="C:\Users\Jinzhen\Documents\GitHub\CodeBoot\src\main\java\com\jinnzenn\github" />
       <recent name="C:\Users\Jinzhen\Documents\GitHub\CodeBoot\src\main\java\Chapter301ModelAndPrototype" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Chapter301Prototype.Section401DesignPattern.CreationalPattern.AbstractFactory" />
@@ -626,7 +394,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FruitRun">
+  <component name="RunManager" selected="Application.Client">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -668,11 +436,11 @@
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Chapter301Prototype.Section401DesignPattern.BehavioralPattern.Command.*" />
+          <option name="PATTERN" value="Chapter301ModelAndPrototype.Section401DesignPattern.BehavioralPattern.ChainOfResponsibility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Chapter301Prototype.Section401DesignPattern.BehavioralPattern.Command.Client" />
+      <option name="MAIN_CLASS_NAME" value="Chapter301ModelAndPrototype.Section401DesignPattern.BehavioralPattern.ChainOfResponsibility.Client" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -687,7 +455,7 @@
     <configuration name="FruitRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Chapter301ModelAndPrototype.LanguageJava.JavaAnnotation.*" />
+          <option name="PATTERN" value="Chapter301ModelAndPrototype.JavaAnnotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -703,14 +471,14 @@
       <module name="CodeBoot" />
       <envs />
     </configuration>
-    <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="FruitRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Chapter301Prototype.Section401DesignPattern.BehavioralPattern.Observer.*" />
+          <option name="PATTERN" value="Chapter301ModelAndPrototype.JavaAnnotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Chapter301Prototype.Section401DesignPattern.BehavioralPattern.Observer.WeatherStation" />
+      <option name="MAIN_CLASS_NAME" value="Chapter301ModelAndPrototype.JavaAnnotation.FruitRun" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -804,19 +572,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Client" />
-      <item index="1" class="java.lang.String" itemvalue="Application.WeatherStation" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Client (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Client (2)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.FruitRun" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Client (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Client (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FruitRun" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FruitRun (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Client" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FruitRun" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Client (2)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Client (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.WeatherStation" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Client" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Client" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FruitRun (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FruitRun" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Client (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Client (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -840,7 +608,7 @@
       <workItem from="1595840375714" duration="10066000" />
       <workItem from="1595856057722" duration="4863000" />
       <workItem from="1595861203899" duration="204000" />
-      <workItem from="1595861993212" duration="227000" />
+      <workItem from="1595861993212" duration="869000" />
     </task>
     <task id="LOCAL-00001" summary="add design pattern code">
       <created>1595857827903</created>
@@ -849,11 +617,18 @@
       <option name="project" value="LOCAL" />
       <updated>1595857827903</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add design pattern code">
+      <created>1595862237760</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595862237760</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37324000" />
+    <option name="totallyTimeSpent" value="37966000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -866,22 +641,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1102" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32971212" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.836197" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3948941" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3948941" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2498642" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -894,7 +669,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32971212" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -934,20 +708,19 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="add design pattern code" />
     <option name="LAST_COMMIT_MESSAGE" value="add design pattern code" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/Builder/Client.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/FactoryMethod/Factory.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/ProtoType/ConcretePrototype.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section102ConcurrentProgramming/多线程经典实例.txt" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/ProtoType/Client.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/RequestType.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/Request.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/ProtoType/Prototype.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/ConcreteHandler1.java" />
@@ -979,17 +752,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Decorator/HouseBlend.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Decorator/DarkRoast.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/AbstractFactory.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Decorator/Beverage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -1015,30 +777,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/LanguageJava/JavaAnnotation/FruitInfoUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/LanguageJava/JavaAnnotation/Apple.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/LanguageJava/JavaAnnotation/FruitProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/LanguageJava/JavaAnnotation/FruitRun.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section201NetworkProgramming/JavaIO/68747470733a2f2f63732d6e6f7465732d313235363130393739362e_007.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section201NetworkProgramming/JavaIO/68747470733a2f2f63732d6e6f7465732d313235363130393739362e_005.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1046,6 +787,22 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section201NetworkProgramming/JavaIO/68747470733a2f2f63732d6e6f7465732d313235363130393739362e636f.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/CreationalPattern/AbstractFactory/ConcreteFactory1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/CreationalPattern/AbstractFactory/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CodeBoot.iml">
@@ -1056,10 +813,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section201NetworkProgramming/JavaIO/68747470733a2f2f63732d6e6f7465732d313235363130393739362e_005.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter201ClassicProblemsAndAlgorithm/Section104Sorting/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
-          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/JavaAnnotation/FruitInfoUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/JavaAnnotation/FruitProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/JavaAnnotation/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/JavaAnnotation/FruitRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding />
         </state>
       </provider>
