@@ -39,15 +39,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
+            <state split_layout="SECOND">
               <first_editor relative-caret-position="0">
                 <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Adaptor/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -312,6 +322,17 @@
               <item name="Chapter301ModelAndPrototype" type="462c0819:PsiDirectoryNode" />
               <item name="Section401DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="StructuralPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter301ModelAndPrototype" type="462c0819:PsiDirectoryNode" />
+              <item name="Section401DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="StructuralPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="Adaptor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
@@ -609,7 +630,7 @@
       <workItem from="1595840375714" duration="10066000" />
       <workItem from="1595856057722" duration="4863000" />
       <workItem from="1595861203899" duration="204000" />
-      <workItem from="1595861993212" duration="999000" />
+      <workItem from="1595861993212" duration="1095000" />
     </task>
     <task id="LOCAL-00001" summary="add design pattern code">
       <created>1595857827903</created>
@@ -636,7 +657,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38096000" />
+    <option name="totallyTimeSpent" value="38192000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -649,6 +670,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1102" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -664,7 +686,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3948941" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3948941" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2498642" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -730,7 +752,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/ProtoType/Prototype.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/ConcreteHandler1.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/ConcreteHandler2.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/Client.java" />
@@ -895,12 +916,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
+        <state split_layout="SECOND">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Adaptor/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
