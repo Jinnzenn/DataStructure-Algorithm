@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26c0abce-2088-4979-9ab1-7a8d8fb5047d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter102AdvancedDataStructure/BloomFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter201ClassicProblemsAndAlgorithm/Section104Sorting/HeapSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter201ClassicProblemsAndAlgorithm/Section104Sorting/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter201ClassicProblemsAndAlgorithm/Section104Sorting/MergeSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter201ClassicProblemsAndAlgorithm/Section104Sorting/Practice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter201ClassicProblemsAndAlgorithm/Section104Sorting/QuickSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Chapter201ClassicProblemsAndAlgorithm/Section104Sorting/QuickSortT.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/jinnzenn/github/App.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/jinnzenn/github/AppTest.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CodeBoot.iml" afterPath="$PROJECT_DIR$/CodeBoot.iml" />
-    </list>
+    <list default="true" id="26c0abce-2088-4979-9ab1-7a8d8fb5047d" name="Default" comment="rename package" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,12 +29,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/Client.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
               <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -363,11 +364,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jinzhen\Documents\GitHub\CodeBoot\src\main\java\Chapter301ModelAndPrototype\Section401DesignPattern" />
       <recent name="C:\Users\Jinzhen\Documents\GitHub\CodeBoot\src\main\java\Chapter301ModelAndPrototype\Section201NetworkProgramming\JavaIO" />
       <recent name="C:\Users\Jinzhen\Documents\GitHub\CodeBoot\src\main\java\Chapter301ModelAndPrototype\Section201NetworkProgramming" />
       <recent name="C:\Users\Jinzhen\Documents\GitHub\CodeBoot\src\main\java\Chapter301ModelAndPrototype\Section401DesignPattern\StructuralPattern" />
       <recent name="C:\Users\Jinzhen\Documents\GitHub\CodeBoot\src\main\java\com\jinnzenn\github" />
-      <recent name="C:\Users\Jinzhen\Documents\GitHub\CodeBoot\src\main\java\Chapter301ModelAndPrototype" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -608,7 +609,7 @@
       <workItem from="1595840375714" duration="10066000" />
       <workItem from="1595856057722" duration="4863000" />
       <workItem from="1595861203899" duration="204000" />
-      <workItem from="1595861993212" duration="869000" />
+      <workItem from="1595861993212" duration="999000" />
     </task>
     <task id="LOCAL-00001" summary="add design pattern code">
       <created>1595857827903</created>
@@ -624,11 +625,18 @@
       <option name="project" value="LOCAL" />
       <updated>1595862237760</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="rename package">
+      <created>1595862897226</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595862897226</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37966000" />
+    <option name="totallyTimeSpent" value="38096000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -712,7 +720,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="add design pattern code" />
-    <option name="LAST_COMMIT_MESSAGE" value="add design pattern code" />
+    <MESSAGE value="rename package" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename package" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -721,7 +730,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/Request.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/ProtoType/Prototype.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/ConcreteHandler1.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/ConcreteHandler2.java" />
@@ -869,6 +877,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -877,11 +893,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
