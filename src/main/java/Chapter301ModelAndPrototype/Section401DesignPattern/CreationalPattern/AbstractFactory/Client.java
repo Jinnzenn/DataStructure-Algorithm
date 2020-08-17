@@ -3,8 +3,8 @@ package Chapter301ModelAndPrototype.Section401DesignPattern.CreationalPattern.Ab
 public class Client {
     public static void main(String[] args) {
         AbstractFactory abstractFactory = new ConcreteFactory1();
-        Chapter301ModelAndPrototype.Section401DesignPattern.CreationalPattern.AbstractFactory.AbstractProductA productA = abstractFactory.createProductA();
-        Chapter301ModelAndPrototype.Section401DesignPattern.CreationalPattern.AbstractFactory.AbstractProductB productB = abstractFactory.createProductB();
+        AbstractProductA productA = abstractFactory.createProductA();
+        AbstractProductB productB = abstractFactory.createProductB();
         System.out.println(productA.getClass() + "  " + productB.getClass());
         // do something with productA and productB
         abstractFactory = new ConcreteFactory2();

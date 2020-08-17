@@ -1,14 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26c0abce-2088-4979-9ab1-7a8d8fb5047d" name="Default" comment="rename package">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/JavaAnnotation/Apple.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter001JavaLanguage/JavaAnnotation/Apple.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/JavaAnnotation/FruitInfoUtil.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter001JavaLanguage/JavaAnnotation/FruitInfoUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/JavaAnnotation/FruitProvider.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter001JavaLanguage/JavaAnnotation/FruitProvider.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/JavaAnnotation/FruitRun.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter001JavaLanguage/JavaAnnotation/FruitRun.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/LanguageJava/README.md" afterPath="$PROJECT_DIR$/src/main/java/Chapter001JavaLanguage/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section501OperationSystem/README.md" afterPath="$PROJECT_DIR$/src/main/java/Chapter401SystemDesign/Section501OperationSystem/README.md" />
+    <list default="true" id="26c0abce-2088-4979-9ab1-7a8d8fb5047d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCache.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCacheImpleList/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCacheImpleList/link.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCacheImpleMap/LFUCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCacheImpleMap/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LRUCache/LRUCache.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LRUCache/LRUCacheImpleDoubleLinkedList/LRUCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LRUCache/LRUCacheImpleLinkedHashMap/LRUCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter201ClassicProblemsAndAlgorithm/Section203Arithmetic/Function.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter201ClassicProblemsAndAlgorithm/Section207Recursion/MajiangJudge.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter201ClassicProblemsAndAlgorithm/Section208DynamicPlanning/MinAddToMakeValid.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter202SpecificProblemsAndAlgorithm/BigData/DynamicGraph.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter202SpecificProblemsAndAlgorithm/BigData/READ.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Interpreter/AndExpression.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Interpreter/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Interpreter/Expression.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Interpreter/OrExpression.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Interpreter/TerminalExpression.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Iterator/Aggregate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Iterator/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Iterator/ConcreteAggregate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Iterator/ConcreteIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Iterator/Iterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Facade/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Facade/Facade.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Facade/SubSystem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Stratege/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Stratege/Duck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Stratege/Quack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Stratege/QuackBehavior.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Stratege/Squeak.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section201NetworkProgramming/JavaNIONetty/ByteBufReferenceCount.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_31_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_42_Final.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Section200AlgorithmDesignAndAnalysisPractice/1.1 leetcode/LeetCode算法题总结.xlsx" afterPath="$PROJECT_DIR$/Section200AlgorithmDesignAndAnalysisPractice/1.1 leetcode/LeetCode算法题总结.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Section200AlgorithmDesignAndAnalysisPractice/1.1 leetcode/我的笔记本 - 力扣 (LeetCode).pdf" afterPath="$PROJECT_DIR$/Section200AlgorithmDesignAndAnalysisPractice/1.1 leetcode/我的笔记本 - 力扣 (LeetCode).pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CodeBoot.iml" afterPath="$PROJECT_DIR$/CodeBoot.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/README.md" afterPath="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/CreationalPattern/AbstractFactory/Client.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/CreationalPattern/AbstractFactory/Client.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,8 +58,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/README.md">
+      <file leaf-file-name="LRUCache.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LRUCache/LRUCache.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
@@ -37,22 +71,94 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/Client.java">
+      <file leaf-file-name="LFUCache.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCacheImpleMap/LFUCache.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="-108">
+              <caret line="60" column="31" lean-forward="true" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCacheImpleList/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="60" column="4" lean-forward="true" selection-start-line="60" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1742#1743#0" expanded="true" />
+                <element signature="e#1785#1786#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCacheImpleMap/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="23" column="44" lean-forward="false" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/README.md">
+      <file leaf-file-name="AbstractCollection.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/JDK/src.zip!/java/util/AbstractCollection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+              <folding>
+                <element signature="e#2327#2328#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/JDK/src.zip!/java/lang/Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PriorityQueue.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/JDK/src.zip!/java/util/PriorityQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="570" column="0" lean-forward="false" selection-start-line="570" selection-start-column="0" selection-end-line="570" selection-end-column="0" />
+              <folding>
+                <element signature="e#21210#21211#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Math.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/JDK/src.zip!/java/lang/Math.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="1182" column="0" lean-forward="false" selection-start-line="1182" selection-start-column="0" selection-end-line="1182" selection-end-column="0" />
+              <folding>
+                <element signature="e#46266#46267#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="link.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCacheImpleList/link.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
+            <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <caret line="0" column="103" lean-forward="false" selection-start-line="0" selection-start-column="103" selection-end-line="0" selection-end-column="103" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -60,62 +166,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Adaptor/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HeapSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter201ClassicProblemsAndAlgorithm/Section104Sorting/HeapSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Apple.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter001JavaLanguage/JavaAnnotation/Apple.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FruitInfoUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter001JavaLanguage/JavaAnnotation/FruitInfoUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FruitProvider.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter001JavaLanguage/JavaAnnotation/FruitProvider.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FruitRun.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter001JavaLanguage/JavaAnnotation/FruitRun.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
+      <file leaf-file-name="LFUCache.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCache.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -135,10 +194,15 @@
       <find>threadList</find>
       <find>maven</find>
       <find>SingletonLazyGuy</find>
+      <find>length</find>
+      <find>4.</find>
+      <find>LRU</find>
     </findStrings>
     <replaceStrings>
       <replace>SingletonDoubleCheckLock</replace>
       <replace>SingletonStaticInnerClass</replace>
+      <replace>n</replace>
+      <replace>LFU</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -152,42 +216,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/ProductB2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/ConcreteFactory1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/ConcreteFactory2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/Client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/Builder/AbstractStringBuilderSimple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/Builder/StringBuilderSimple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/Builder/Client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/ProtoType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/ProtoType/ConcreteType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/ProtoType/ProtoType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/ProtoType/Client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/Handler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/Request.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/RequestType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/ConcreteHandler1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/ConcreteHander2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/Client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Command/LightOnCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Command/Light.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Command/LightOffCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Command/Command.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Command/Invoker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Command/Client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Observer/Observer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Observer/Subject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Observer/WeatherData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Observer/StatisticsDisplay.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Observer/CurrentConditionsDisplay.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Observer/WeatherStation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Duck.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Adaptor/Duck.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Adaptor/Turkey.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Adaptor/WildTurkey.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Adaptor/TurkeyAdapter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Adaptor/Client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Decorator/Beverage.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Decorator/HouseBlend.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Decorator/CondimentDecorator.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Decorator/Milk.java" />
@@ -198,11 +226,47 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Decorator/CondimentDecorator.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Decorator/CondimentDecoratorImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/CreationalPattern/AbstractFactory/ConcreteFactory1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/CreationalPattern/AbstractFactory/Client.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter300ModelAndPrototype/JavaAnnotation/FruitRun.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter202SpecificProblemsAndAlgorithm/Chapter301ModelAndPrototype/JavaAnnotation/FruitRun.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/JavaAnnotation/FruitRun.java" />
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/CreationalPattern/AbstractFactory/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Interpreter/Expression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Interpreter/TerminalExpress.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Interpreter/AndExpression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Interpreter/OrExpression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Interpreter/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Iterator/Aggregate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Iterator/Iterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Iterator/ConcreteIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Iterator/ConcreteAggregate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Iterator/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Facade/SubSystem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Facade/Facade.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Facade/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Stratege/QuackBehavior.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Stratege/Quack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Stratege/Squeak.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Stratege/Duck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Stratege/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter201ClassicProblemsAndAlgorithm/Section207Recursion/MajiangJudge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter201ClassicProblemsAndAlgorithm/Section208DynamicPlanning/MinAddToMakeValid.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter201ClassicProblemsAndAlgorithm/Section203Arithmetic/Function.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LRUCache/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LRUCacheSimple/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter202SpecificProblemsAndAlgorithm/BigData/READ.md" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter202SpecificProblemsAndAlgorithm/BigData/DynamicGraph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LRUCacheImpleLinkedHashMap/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LRUCache/LRUCacheImpleDoubleLinkedList/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LRUCacheImpleDoubleLinkedList/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCacheImpleMap/LFUCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCacheImpleList/link.md" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCacheImpleList/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCacheImpleMap/Solution.java" />
       </list>
     </option>
   </component>
@@ -229,29 +293,28 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="982" />
-    <option name="height" value="1102" />
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
+      <flattenPackages ProjectPane="false" />
       <showMembers />
       <showModules />
       <showLibraryContents />
       <hideEmptyPackages />
       <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
       <sortByType />
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -285,7 +348,82 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter001JavaLanguage" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter102AdvancedDataStructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter102AdvancedDataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="LFUCache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter102AdvancedDataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="LFUCache" type="462c0819:PsiDirectoryNode" />
+              <item name="LFUCacheImpleList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter102AdvancedDataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="LFUCache" type="462c0819:PsiDirectoryNode" />
+              <item name="LFUCacheImpleMap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter102AdvancedDataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="LRUCache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter102AdvancedDataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="LRUCache" type="462c0819:PsiDirectoryNode" />
+              <item name="LRUCacheImpleDoubleLinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter102AdvancedDataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="LRUCache" type="462c0819:PsiDirectoryNode" />
+              <item name="LRUCacheImpleLinkedHashMap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter202SpecificProblemsAndAlgorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter202SpecificProblemsAndAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="BigData" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
@@ -301,7 +439,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter401SystemDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter301ModelAndPrototype" type="462c0819:PsiDirectoryNode" />
+              <item name="Section201NetworkProgramming" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
@@ -309,7 +448,9 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter301ModelAndPrototype" type="462c0819:PsiDirectoryNode" />
+              <item name="Section201NetworkProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaNIONetty" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
@@ -331,6 +472,44 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -348,7 +527,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Projects/Learning Java/blog/pom.xml" />
-    <property name="SearchEverywhereHistoryKey" value="runnable&#9;PSI&#9;JAVA://Chapter301Prototype.Section102ConcurrentProgramming.Thread.chapter3.CaptureRunnable" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Jinzhen/Documents/GitHub/CodeBoot/src/main/java/Chapter102AdvancedDataStructure/LRUCache/LRUCache.java&#10;lru&#9;FILE&#9;file://C:/Users/Jinzhen/Documents/GitHub/CodeBoot/src/main/java/Chapter102AdvancedDataStructure/LRUCache/LRUCache.java&#10;runnable&#9;PSI&#9;JAVA://Chapter301Prototype.Section102ConcurrentProgramming.Thread.chapter3.CaptureRunnable" />
     <property name="GO_FMT" value="false" />
   </component>
   <component name="RecentsManager">
@@ -360,6 +539,7 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Chapter202SpecificProblemsAndAlgorithm.BigData" />
       <recent name="Chapter301Prototype.Section401DesignPattern.CreationalPattern.AbstractFactory" />
       <recent name="Chapter301Prototype.Section401DesignPattern.CreationalPattern.FactoryMethod" />
       <recent name="Chapter301Prototype.Section401DesignPattern.SimpleFactory" />
@@ -384,83 +564,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Chapter301Prototype.Section401DesignPattern.StructuralPattern.Adaptor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Chapter301Prototype.Section401DesignPattern.StructuralPattern.Adaptor.Client" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CodeBoot" />
-      <envs />
-    </configuration>
-    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Chapter301Prototype.Section401DesignPattern.StructuralPattern.Decorator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Chapter301Prototype.Section401DesignPattern.StructuralPattern.Decorator.Client" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CodeBoot" />
-      <envs />
-    </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Chapter301ModelAndPrototype.Section401DesignPattern.BehavioralPattern.ChainOfResponsibility.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Chapter301ModelAndPrototype.Section401DesignPattern.BehavioralPattern.ChainOfResponsibility.Client" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CodeBoot" />
-      <envs />
-    </configuration>
-    <configuration name="FruitRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Chapter001JavaLanguage.JavaAnnotation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Chapter001JavaLanguage.JavaAnnotation.FruitRun" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CodeBoot" />
-      <envs />
-    </configuration>
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="FruitRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -469,6 +573,101 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Chapter301ModelAndPrototype.JavaAnnotation.FruitRun" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CodeBoot" />
+      <envs />
+    </configuration>
+    <configuration name="Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Chapter201ClassicProblemsAndAlgorithm.Section203Arithmetic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Chapter201ClassicProblemsAndAlgorithm.Section203Arithmetic.Function" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CodeBoot" />
+      <envs />
+    </configuration>
+    <configuration name="LFUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Chapter102AdvancedDataStructure.LFUCache.LFUCacheImpleMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Chapter102AdvancedDataStructure.LFUCache.LFUCacheImpleMap.LFUCache" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CodeBoot" />
+      <envs />
+    </configuration>
+    <configuration name="SingletonStaticInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Chapter301ModelAndPrototype.Section401DesignPattern.CreationalPattern.Singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Chapter301ModelAndPrototype.Section401DesignPattern.CreationalPattern.Singleton.SingletonStaticInnerClass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CodeBoot" />
+      <envs />
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Chapter102AdvancedDataStructure.LFUCache.LFUCacheImpleMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Chapter102AdvancedDataStructure.LFUCache.LFUCacheImpleMap.Solution" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CodeBoot" />
+      <envs />
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Chapter102AdvancedDataStructure.LFUCache.LFUCacheImpleList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Chapter102AdvancedDataStructure.LFUCache.LFUCacheImpleList.Solution" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -561,18 +760,20 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Application.Client (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Client (2)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FruitRun" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Client" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Function" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SingletonStaticInnerClass" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LFUCache" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Solution" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Solution (1)" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.Client" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FruitRun" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Client (2)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Client (1)" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Solution (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Solution" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LFUCache" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SingletonStaticInnerClass" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Function" />
       </list>
     </recent_temporary>
   </component>
@@ -597,7 +798,12 @@
       <workItem from="1595856057722" duration="4863000" />
       <workItem from="1595861203899" duration="204000" />
       <workItem from="1595861993212" duration="1296000" />
-      <workItem from="1595865066515" duration="549000" />
+      <workItem from="1595865066515" duration="11958000" />
+      <workItem from="1596016211341" duration="12569000" />
+      <workItem from="1596087451075" duration="533000" />
+      <workItem from="1597074546789" duration="7865000" />
+      <workItem from="1597244552268" duration="845000" />
+      <workItem from="1597462608717" duration="5775000" />
     </task>
     <task id="LOCAL-00001" summary="add design pattern code">
       <created>1595857827903</created>
@@ -620,11 +826,18 @@
       <option name="project" value="LOCAL" />
       <updated>1595862897226</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="reconstruct package">
+      <created>1595865646278</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595865646278</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38942000" />
+    <option name="totallyTimeSpent" value="77938000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -637,9 +850,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1102" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -651,21 +866,20 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40358502" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29331884" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8694158" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2498642" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4272623" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4879725" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32971212" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -709,48 +923,146 @@
     </ignored-roots>
     <MESSAGE value="add design pattern code" />
     <MESSAGE value="rename package" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename package" />
+    <MESSAGE value="reconstruct package" />
+    <option name="LAST_COMMIT_MESSAGE" value="reconstruct package" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/ConcreteHandler1.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/ConcreteHandler2.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/Client.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/Handler.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Command/Light.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Command/LightOffCommand.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Command/Command.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Command/LightOnCommand.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Command/Invoker.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Command/Client.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Observer/Observer.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Observer/Subject.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Observer/WeatherData.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Observer/StatisticsDisplay.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Observer/CurrentConditionsDisplay.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/BehavioralPattern/Observer/WeatherStation.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Adaptor/WildTurkey.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Adaptor/Duck.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Adaptor/Turkey.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Adaptor/TurkeyAdapter.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Adaptor/Client.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Decorator/Milk.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Decorator/Mocha.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Decorator/CondimentDecorator.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Decorator/Beverage.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Decorator/Client.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Decorator/HouseBlend.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/StructuralPattern/Decorator/DarkRoast.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301Prototype/Section401DesignPattern/CreationalPattern/AbstractFactory/AbstractFactory.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Decorator/Beverage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Observer/WeatherStation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Observer/WeatherData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/ConcreteHandler1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/CreationalPattern/AbstractFactory/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/CreationalPattern/Builder/AbstractStringBuilderSimple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/JDK/src.zip!/java/util/StringTokenizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="102" column="6" lean-forward="false" selection-start-line="102" selection-start-column="6" selection-end-line="102" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Interpreter/Expression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Interpreter/AndExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Interpreter/OrExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Interpreter/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Interpreter/TerminalExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Iterator/Aggregate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Iterator/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Iterator/ConcreteIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Iterator/ConcreteAggregate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Iterator/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Facade/SubSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Facade/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Facade/Facade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -761,93 +1073,171 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Decorator/CondimentDecoratorImpl.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Decorator/CondimentDecorator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Stratege/QuackBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Stratege/Quack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Stratege/Squeak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Stratege/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Stratege/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/CreationalPattern/Singleton/SingletonStaticInnerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/CreationalPattern/Singleton/SingletonDoubleCheckLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter201ClassicProblemsAndAlgorithm/Section203Arithmetic/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter201ClassicProblemsAndAlgorithm/Section207Recursion/MajiangJudge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="46" column="4" lean-forward="false" selection-start-line="46" selection-start-column="4" selection-end-line="80" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter201ClassicProblemsAndAlgorithm/Section208DynamicPlanning/MinAddToMakeValid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter201ClassicProblemsAndAlgorithm/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/BloomFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="2" column="53" lean-forward="false" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter001JavaLanguage/JavaAnnotation/Apple.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter001JavaLanguage/JavaAnnotation/FruitRun.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section201NetworkProgramming/JavaIO/68747470733a2f2f63732d6e6f7465732d313235363130393739362e_007.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section201NetworkProgramming/JavaIO/68747470733a2f2f63732d6e6f7465732d313235363130393739362e636f.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/CreationalPattern/AbstractFactory/ConcreteFactory1.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="810">
+          <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/CreationalPattern/AbstractFactory/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeBoot.iml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section201NetworkProgramming/JavaNIONetty/ByteBufReferenceCount.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section201NetworkProgramming/JavaNIONetty/ByteBufReferenceCount">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section201NetworkProgramming/JavaIO/68747470733a2f2f63732d6e6f7465732d313235363130393739362e_005.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter201ClassicProblemsAndAlgorithm/Section104Sorting/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter001JavaLanguage/JavaAnnotation/FruitInfoUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter202SpecificProblemsAndAlgorithm/BigData/READ.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter001JavaLanguage/JavaAnnotation/FruitProvider.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter202SpecificProblemsAndAlgorithm/BigData/DynamicGraph.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter001JavaLanguage/JavaAnnotation/Apple.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LRUCache/LRUCacheImpleLinkedHashMap/LRUCache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="1281">
+          <caret line="49" column="27" lean-forward="false" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter001JavaLanguage/JavaAnnotation/FruitRun.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="351">
+            <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LRUCache/LRUCacheImpleDoubleLinkedList/LRUCache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="3159">
+          <caret line="120" column="26" lean-forward="false" selection-start-line="120" selection-start-column="26" selection-end-line="120" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/README.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LRUCache/LRUCache.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -858,24 +1248,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/ChainOfResponsibility/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/README.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCache.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
+        <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
@@ -884,11 +1259,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Adaptor/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCacheImpleList/link.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="103" lean-forward="false" selection-start-line="0" selection-start-column="103" selection-end-line="0" selection-end-column="103" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/JDK/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="136">
+          <caret line="1182" column="0" lean-forward="false" selection-start-line="1182" selection-start-column="0" selection-end-line="1182" selection-end-column="0" />
+          <folding>
+            <element signature="e#46266#46267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/JDK/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="570" column="0" lean-forward="false" selection-start-line="570" selection-start-column="0" selection-end-line="570" selection-end-column="0" />
+          <folding>
+            <element signature="e#21210#21211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/JDK/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding>
+            <element signature="e#2327#2328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/JDK/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCacheImpleMap/LFUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="60" column="31" lean-forward="true" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCacheImpleMap/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="23" column="44" lean-forward="false" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCacheImpleList/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="60" column="4" lean-forward="true" selection-start-line="60" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1742#1743#0" expanded="true" />
+            <element signature="e#1785#1786#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
