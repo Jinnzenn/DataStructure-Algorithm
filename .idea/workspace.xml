@@ -2,47 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26c0abce-2088-4979-9ab1-7a8d8fb5047d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCache.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCacheImpleList/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCacheImpleList/link.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCacheImpleMap/LFUCache.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LFUCache/LFUCacheImpleMap/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LRUCache/LRUCache.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LRUCache/LRUCacheImpleDoubleLinkedList/LRUCache.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/LRUCache/LRUCacheImpleLinkedHashMap/LRUCache.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter201ClassicProblemsAndAlgorithm/Section203Arithmetic/Function.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter201ClassicProblemsAndAlgorithm/Section207Recursion/MajiangJudge.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter201ClassicProblemsAndAlgorithm/Section208DynamicPlanning/MinAddToMakeValid.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter202SpecificProblemsAndAlgorithm/BigData/DynamicGraph.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter202SpecificProblemsAndAlgorithm/BigData/READ.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Interpreter/AndExpression.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Interpreter/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Interpreter/Expression.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Interpreter/OrExpression.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Interpreter/TerminalExpression.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Iterator/Aggregate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Iterator/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Iterator/ConcreteAggregate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Iterator/ConcreteIterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/BehavioralPattern/Iterator/Iterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Facade/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Facade/Facade.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Facade/SubSystem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Stratege/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Stratege/Duck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Stratege/Quack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Stratege/QuackBehavior.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/StructuralPattern/Stratege/Squeak.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section201NetworkProgramming/JavaNIONetty/ByteBufReferenceCount.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_31_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_42_Final.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Section200AlgorithmDesignAndAnalysisPractice/1.1 leetcode/LeetCode算法题总结.xlsx" afterPath="$PROJECT_DIR$/Section200AlgorithmDesignAndAnalysisPractice/1.1 leetcode/LeetCode算法题总结.xlsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Section200AlgorithmDesignAndAnalysisPractice/1.1 leetcode/我的笔记本 - 力扣 (LeetCode).pdf" afterPath="$PROJECT_DIR$/Section200AlgorithmDesignAndAnalysisPractice/1.1 leetcode/我的笔记本 - 力扣 (LeetCode).pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CodeBoot.iml" afterPath="$PROJECT_DIR$/CodeBoot.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/README.md" afterPath="$PROJECT_DIR$/src/main/java/Chapter102AdvancedDataStructure/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/CreationalPattern/AbstractFactory/Client.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter301ModelAndPrototype/Section401DesignPattern/CreationalPattern/AbstractFactory/Client.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -803,7 +763,7 @@
       <workItem from="1596087451075" duration="533000" />
       <workItem from="1597074546789" duration="7865000" />
       <workItem from="1597244552268" duration="845000" />
-      <workItem from="1597462608717" duration="5775000" />
+      <workItem from="1597462608717" duration="5776000" />
     </task>
     <task id="LOCAL-00001" summary="add design pattern code">
       <created>1595857827903</created>
@@ -837,7 +797,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77938000" />
+    <option name="totallyTimeSpent" value="77939000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -874,7 +834,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4879725" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4879725" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
