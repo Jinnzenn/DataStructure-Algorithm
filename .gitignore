@@ -1,0 +1,8 @@
+# IDE
+
+.idea
+.vscode
+
+# compiling, builds
+*.class
+

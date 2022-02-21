@@ -1,4 +1,4 @@
-package Chapter001JavaLanguage.JavaAnnotation;
+package Chapter001Language.JavaAnnotation;
 
 import java.lang.annotation.*;
 
